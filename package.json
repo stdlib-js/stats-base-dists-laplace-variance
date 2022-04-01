@@ -1,0 +1,37 @@
+{
+  "name": "@stdlib/stats-base-dists-laplace-variance",
+  "version": "0.0.0",
+  "description": "Laplace distribution variance.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/stats-base-dists-laplace-variance.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "statistics",
+    "stats",
+    "distribution",
+    "dist",
+    "continuous",
+    "variance",
+    "spread",
+    "dispersion",
+    "laplace",
+    "double exponential",
+    "location-scale",
+    "exponential family",
+    "univariate"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
