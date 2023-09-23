@@ -67,7 +67,7 @@ The [variance][variance] for a [Laplace][laplace-distribution] random variable w
 ## Usage
 
 ```javascript
-import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-variance@deno/mod.js';
+import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-variance@v0.1.0-deno/mod.js';
 ```
 
 #### variance( mu, b )
@@ -127,7 +127,7 @@ y = variance( 0.0, -1.0 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-variance@deno/mod.js';
+import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-laplace-variance@v0.1.0-deno/mod.js';
 
 var mu;
 var b;
