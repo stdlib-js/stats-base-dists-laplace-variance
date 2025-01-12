@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-24)
+## Unreleased (2025-01-12)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`f3df15f`](https://github.com/stdlib-js/stdlib/commit/f3df15f118d563573f27d2d2b96e35b842f05a18) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
 -   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
 -   [`2b67875`](https://github.com/stdlib-js/stdlib/commit/2b67875eca43c4846a5b048971eab7bf898216e9) - **feat:** add C implementation for `stats/base/dists/laplace/variance` [(#3948)](https://github.com/stdlib-js/stdlib/pull/3948) _(by Aayush Khanna, stdlib-bot)_
 
