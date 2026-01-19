@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`ce2a193`](https://github.com/stdlib-js/stdlib/commit/ce2a1930b7c0014fd2404c7cf5f7a90f44e9f6fa) - **test:** remove duplicate test cases in `stats/base/dists/laplace` packages _(by Philipp Burckhardt)_
 -   [`a6b5609`](https://github.com/stdlib-js/stdlib/commit/a6b5609b1e8e92ec33fda5874e3c03c9e3e571c6) - **bench:** update random value generation [(#9745)](https://github.com/stdlib-js/stdlib/pull/9745) _(by Harsh Yadav)_
 -   [`5bbd209`](https://github.com/stdlib-js/stdlib/commit/5bbd209871c06aaf7d6347c6eb7696af6128ee1a) - **docs:** replace manual `for` loop in examples [(#8257)](https://github.com/stdlib-js/stdlib/pull/8257) _(by Harsh Yadav)_
 -   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
