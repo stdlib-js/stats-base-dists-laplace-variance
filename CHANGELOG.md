@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-17)
+## Unreleased (2026-11-10)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`cac09de`](https://github.com/stdlib-js/stdlib/commit/cac09de38bff03d6f7249b1effda889bbcb172a8) - **refactor:** use `constants/float64/nan` in `stats/base/dists/laplace/variance` [(#16559)](https://github.com/stdlib-js/stdlib/pull/16559) _(by Subham Mahapatra)_
 -   [`3fec0be`](https://github.com/stdlib-js/stdlib/commit/3fec0be3388e3789a5cb358ad575aec78b38c189) - **test:** migrate `stats/base/dists/laplace/variance` to ULP-based assertions [(#15019)](https://github.com/stdlib-js/stdlib/pull/15019) _(by Aryan kumar, Athan Reines)_
 -   [`4a0c3be`](https://github.com/stdlib-js/stdlib/commit/4a0c3be4719f713b69a8ff6b66cc3b0573bf4444) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`f25221d`](https://github.com/stdlib-js/stdlib/commit/f25221d5fcb5e84cb0ad4951db6f08f254c12d15) - **docs:** update Markdown equation elements _(by stdlib-bot)_
@@ -29,11 +30,12 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Aryan kumar
 -   Athan Reines
 -   Philipp Burckhardt
+-   Subham Mahapatra
 -   Vishal Gaikwad
 
 </section>
